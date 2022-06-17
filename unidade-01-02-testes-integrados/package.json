@@ -1,0 +1,15 @@
+{
+  "name": "unidade-01-02-testes-integrados",
+  "version": "1.0.0",
+  "description": "Unidade 01 - 02 Testes de Integração",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.1",
+    "superagent": "^7.1.6"
+  }
+}

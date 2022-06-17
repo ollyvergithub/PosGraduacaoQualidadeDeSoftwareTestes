@@ -10,6 +10,6 @@
 package-lock.json
 .vscode/
 
-
+/_material/
 /unidade-01-01-testes-de-unidade/node_modules/
-/unidade-01-01-testes-de-unidade/_material/
+/unidade-01-02-testes-integrados/node_modules/
