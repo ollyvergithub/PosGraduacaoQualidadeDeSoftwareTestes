@@ -10,6 +10,6 @@
 package-lock.json
 .vscode/
 
-/unidade-02-api-com-nodejs/node_modules/
-/unidade-02-todo-list/node_modules/
-/unidade-02-client-consumir-api-todo-list/node_modules/
+
+/unidade-01-01-testes-de-unidade/node_modules/
+/unidade-01-01-testes-de-unidade/_material/

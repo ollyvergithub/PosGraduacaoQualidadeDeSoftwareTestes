@@ -1,0 +1,17 @@
+{
+  "name": "unidade-01-01-testes-de-unidade",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "Unidade 01 - 01 Testes de Unidade",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
