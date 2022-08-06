@@ -18,3 +18,5 @@ package-lock.json
 /unidade-02-app-gestao-de-usuario-jest-testes-unitarios-de-integracao-e-sistema/node_modules/
 /unidade-03-app-gestao-de-usuarios-react-admin-e-cypress/user-admin/node_modules/
 /unidade-03-app-gestao-de-usuarios-react-admin-e-cypress/user-api/node_modules/
+/unidade-04-continuous-integration/user-admin/node_modules/
+/unidade-04-continuous-integration/user-api/node_modules/
