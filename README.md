@@ -20,3 +20,15 @@ III. Execute os testes.
 ```console
 $ npm run test
 ```
+
+### IV. Para executar a aplicação:
+* unidade-03-app-gestao-de-usuarios-react-admin-e-cypress
+
+```console
+cd user-api
+$ npm start
+
+cd user-admin
+$ npm start
+$ npm run cypress:open
+```

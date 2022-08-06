@@ -16,3 +16,5 @@ package-lock.json
 /unidade-01-03-desafio-two-sum-problem/node_modules/
 /unidade-02-02-criando-aplicacao-usuarios-testes-integracao/node_modules/
 /unidade-02-app-gestao-de-usuario-jest-testes-unitarios-de-integracao-e-sistema/node_modules/
+/unidade-03-app-gestao-de-usuarios-react-admin-e-cypress/user-admin/node_modules/
+/unidade-03-app-gestao-de-usuarios-react-admin-e-cypress/user-api/node_modules/
